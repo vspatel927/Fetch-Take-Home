@@ -4,3 +4,4 @@ Fetch Android Engineer Apprentice Take Home Project:
 - *Item* model contains structure for each item object
 - *FetchViewModel* structures data into List<Item> and filters + sorts based on requirements
 - *MainActivity* passes filtered + sorted data into LazyColumn to display 
+![image](https://github.com/user-attachments/assets/420d3a27-b22b-4853-abd9-fa8c0082a3cd)
